@@ -1,0 +1,4 @@
+localhost/wp_rest_api/wp-json/wp/v2/pages
+localhost/wp_rest_api/wp-json/wp/v2/posts
+localhost/wp_rest_api/wp-json/wp/v2/posts?per_page=2
+localhost/wp_rest_api/wp-json/wp/v2/posts?categories=5
